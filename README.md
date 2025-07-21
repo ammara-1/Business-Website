@@ -33,7 +33,7 @@ This is a modern Wix website project created as part of my portfolio to demonstr
 ## 🖼️ Website Preview
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./home.png)
 
 ### Services Section
 ![Services](./screenshots/services.png)
