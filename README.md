@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This is a modern Wix website project created as part of my portfolio to demonstrate clean UI, mobile responsiveness, and user-centric navigation. Though this version is not published on a business domain, it reflects my design process, structure planning, and implementation skills on the Wix platform.
+This is a modern Wix website project created as part of my portfolio to demonstrate clean UI, mobile responsiveness, and user-centric navigation. It reflects my design process, structure planning, and implementation skills on the Wix platform.
 
 ---
 
