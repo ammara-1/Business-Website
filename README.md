@@ -35,13 +35,4 @@ This is a modern Wix website project created as part of my portfolio to demonstr
 ### Homepage
 ![Homepage](./home.png)
 
-### Services Section
-![Services](./screenshots/services.png)
 
-### About Section
-![About](./screenshots/about.png)
-
-### Contact Section
-![Contact](./screenshots/contact.png)
-
----
